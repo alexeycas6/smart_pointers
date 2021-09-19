@@ -1,5 +1,3 @@
-#include <iostream>
-
 template <class T>
 class unique_pointer {
 	T* m_ptr{ nullptr };
